@@ -1,1 +1,5 @@
 streamlit
+pandas
+numpy
+requests
+nfl-projections @ git+https://github.com/Gin-G/nfl-data-py.git
